@@ -1,6 +1,6 @@
  <h1>Todo App using React Native</h1>
 
-It is a simple app which will save Your daily tasks in order not to miss anything.
+It is a simple app which will save Your daily tasks in order to not miss anything.
 
 # Features
 
