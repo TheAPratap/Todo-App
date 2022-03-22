@@ -1,4 +1,4 @@
-# <h1>Todo-App using React Native</h1>
+ <h1>Todo-App using React Native</h1>
 
 It is a simple app which will save Your daily tasks in order not to miss anything.
 
@@ -11,6 +11,7 @@ It is a simple app which will save Your daily tasks in order not to miss anythin
 
 # Tech Used
  <div style="display: flex;">
-   <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="ReactNative_Logo" width="50"/>
+   <a href="https://www.reactnative.dev"> <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="ReactNative_Logo" width="50"/>
+   </a>
    <img src="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png" alt="JS_Logo" width="50"/>
  </div>
