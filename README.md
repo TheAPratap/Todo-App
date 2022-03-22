@@ -1,12 +1,12 @@
- <h1>Todo-App using React Native</h1>
+ <h1>Todo App using React Native</h1>
 
 It is a simple app which will save Your daily tasks in order not to miss anything.
 
 # Features
 <ul>
- <li>Add new task</li>
- <li>Delete single task</li>
- </li>Delete completed tasks<li>
+ - Add new task
+ - Delete single task
+ - Delete completed tasks
 </ul>
 
 # Tech Used
